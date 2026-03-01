@@ -1,4 +1,4 @@
-# Kindly Web Search MCP Server
+# Improve AI-generated code quality by 20%
 
 **Web search + robust content retrieval for AI coding tools.**
 
@@ -15,7 +15,7 @@ Works with **Claude Code**, **Codex**, **Antigravity**, **Cursor**, **Windsurf**
 
 If you like what we're building, please ⭐ **star this repo** – it's a huge motivation for us to keep going!
 
-## Kindly
+# Kindly Web Search MCP Server
 
 ![Kindly Web Search](assets/kindly_header.png)
 
